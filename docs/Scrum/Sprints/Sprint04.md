@@ -10,7 +10,7 @@ Permitir o cadastro e a consulta dos equipamentos que chegam à oficina.
 
 ## Product Backlog Items
 
-- HU03 – Gerenciar Equipamentos (issue #11) – RF03
+- PBI03 – Gerenciar Equipamentos (US03) – RF03
 
 ## Tasks
 
@@ -21,22 +21,24 @@ Permitir o cadastro e a consulta dos equipamentos que chegam à oficina.
 
 ## Definition of Done
 
-Todos os itens devem atender à [DoD](../04-definition-of-done.md).
+Todos os itens devem atender à [DoD](../Definition-of-Done.md).
 
 ## Sprint Review
 
-*A ser preenchido ao final da Sprint.*
+- **Incremento entregue:** Módulo de cadastro e consulta de equipamentos.
+- **Demonstração:** Cadastro de um equipamento (tipo, marca e modelo), com o número de série gerado pelo sistema, e consulta do equipamento cadastrado.
+- **Resultado:** o objetivo da sprint foi atingido e os itens planejados foram concluídos.
 
 ## Retrospective
 
 ### Funcionou bem
 
-*A ser preenchido ao final da Sprint.*
+O objetivo da sprint foi atingido e todas as tasks foram concluídas. O cadastro de equipamentos funcionou, com a geração automática do número de série.
 
 ### Problemas
 
-*A ser preenchido ao final da Sprint.*
+Nenhum.
 
 ### Melhorias
 
-*A ser preenchido ao final da Sprint.*
+Como melhoria futura, incluir campos adicionais no cadastro do equipamento, como ano de fabricação e estado de conservação, para dar mais detalhes ao diagnóstico do mecânico.
