@@ -10,7 +10,7 @@ Permitir o cadastro e a manutenção dos clientes da oficina.
 
 ## Product Backlog Items
 
-- HU02 – Gerenciar Clientes (issue #1) – RF02 e RNF04
+- PBI02 – Gerenciar Clientes (US02) – RF02 e RNF04
 
 ## Tasks
 
@@ -22,22 +22,24 @@ Permitir o cadastro e a manutenção dos clientes da oficina.
 
 ## Definition of Done
 
-Todos os itens devem atender à [DoD](../04-definition-of-done.md).
+Todos os itens devem atender à [DoD](../Definition-of-Done.md).
 
 ## Sprint Review
 
-*A ser preenchido ao final da Sprint.*
+- **Incremento entregue:** Gestão completa de clientes (cadastrar, consultar, alterar e excluir).
+- **Demonstração:** Cadastro de um cliente, tentativa de cadastrar o mesmo CPF novamente (recusada), consulta, alteração e exclusão.
+- **Resultado:** o objetivo da sprint foi atingido e os itens planejados foram concluídos.
 
 ## Retrospective
 
 ### Funcionou bem
 
-*A ser preenchido ao final da Sprint.*
+O objetivo da sprint foi atingido e todas as tasks foram concluídas. O cadastro, a consulta, a alteração e a exclusão de clientes funcionaram, com a validação de CPF e o bloqueio de duplicidade.
 
 ### Problemas
 
-*A ser preenchido ao final da Sprint.*
+Nenhum.
 
 ### Melhorias
 
-*A ser preenchido ao final da Sprint.*
+Nenhuma melhoria identificada nesta sprint.
