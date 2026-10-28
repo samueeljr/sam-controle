@@ -1,6 +1,6 @@
 # Sprint 06
 
-**Status:** Ainda não iniciada.
+**Status:** Concluída.
 
 **Período:** A definir.
 
@@ -14,11 +14,11 @@ Permitir o registro das fichas de serviço dos equipamentos.
 
 ## Tasks
 
-- [ ] Selecionar o equipamento associado ao cliente
-- [ ] Preencher descrição, observações e preço do serviço
-- [ ] Validar os dados da ficha
-- [ ] Gravar a ficha de serviço em arquivo de texto
-- [ ] Exibir mensagem de sucesso e imprimir a ficha
+- [x] Selecionar o equipamento associado ao cliente
+- [x] Preencher descrição, observações e preço do serviço
+- [x] Validar os dados da ficha
+- [x] Gravar a ficha de serviço em arquivo de texto
+- [x] Exibir mensagem de sucesso e imprimir a ficha
 
 ## Definition of Done
 
