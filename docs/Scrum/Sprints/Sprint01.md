@@ -20,7 +20,7 @@ Estruturar a base do programa em C e entregar o menu principal de navegação do
 
 ## Definition of Done
 
-Todos os itens devem atender à [DoD](../04-definition-of-done.md).
+Todos os itens devem atender à [DoD](../Definition-of-Done.md).
 
 ## Sprint Review
 
@@ -40,4 +40,4 @@ Nenhum.
 
 ### Melhorias
 
-Como melhoria futura, o grupo pretende migrar o armazenamento dos arquivos de texto (`.txt`) para um banco de dados, de preferência o SQL Server, o que traria mais segurança, integridade e desempenho para todos os dados do sistema.
+Como melhoria futura, o grupo pretende migrar o armazenamento dos arquivos de texto (`.txt`), criados nesta sprint, para um banco de dados, de preferência o SQL Server, o que traria mais segurança, integridade e desempenho para os dados de todo o sistema.
