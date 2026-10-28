@@ -10,7 +10,7 @@ Permitir a consulta do histórico de serviços por cliente e por equipamento.
 
 ## Product Backlog Items
 
-- HU04 – Consultar Serviços Finalizados (issue #12) – RF05 e RNF01
+- PBI04 – Consultar Serviços Finalizados (US04) – RF05 e RNF01
 
 ## Tasks
 
@@ -20,22 +20,24 @@ Permitir a consulta do histórico de serviços por cliente e por equipamento.
 
 ## Definition of Done
 
-Todos os itens devem atender à [DoD](../04-definition-of-done.md).
+Todos os itens devem atender à [DoD](../Definition-of-Done.md).
 
 ## Sprint Review
 
-*A ser preenchido ao final da Sprint.*
+- **Incremento entregue:** Consulta do histórico de serviços por cliente e por equipamento.
+- **Demonstração:** Busca de um cliente, escolha de um equipamento dele e exibição do histórico de serviços, com serviços realizados, orçamentos e preços.
+- **Resultado:** o objetivo da sprint foi atingido e os itens planejados foram concluídos.
 
 ## Retrospective
 
 ### Funcionou bem
 
-*A ser preenchido ao final da Sprint.*
+O objetivo da sprint foi atingido e todas as tasks foram concluídas. A consulta do histórico funcionou, permitindo ver o que já foi feito em cada equipamento.
 
 ### Problemas
 
-*A ser preenchido ao final da Sprint.*
+Nenhum.
 
 ### Melhorias
 
-*A ser preenchido ao final da Sprint.*
+Nesta versão, a consulta do histórico é feita pelo atendente, e ainda não existe um portal do cliente. Como melhoria futura, o grupo pretende criar o portal, para que o próprio cliente consulte as fichas finalizadas dos seus equipamentos sem precisar ligar para a oficina.
