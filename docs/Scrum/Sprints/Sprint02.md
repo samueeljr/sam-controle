@@ -10,7 +10,7 @@ Permitir o acesso ao sistema por login e senha, com controle do nível de acesso
 
 ## Product Backlog Items
 
-- HU01 – Gerenciar Usuários (issue #2) – RF01 e RNF01
+- PBI01 – Gerenciar Usuários (US01) – RF01 e RNF01
 
 ## Tasks
 
@@ -22,22 +22,24 @@ Permitir o acesso ao sistema por login e senha, com controle do nível de acesso
 
 ## Definition of Done
 
-Todos os itens devem atender à [DoD](../04-definition-of-done.md).
+Todos os itens devem atender à [DoD](../Definition-of-Done.md).
 
 ## Sprint Review
 
-*A ser preenchido ao final da Sprint.*
+- **Incremento entregue:** Login com níveis de acesso e gerenciamento de usuários.
+- **Demonstração:** Login como administrador e como atendente, mostrando que a opção "Gerenciar Usuários" aparece apenas para o administrador, e cadastro de um novo usuário.
+- **Resultado:** o objetivo da sprint foi atingido e os itens planejados foram concluídos.
 
 ## Retrospective
 
 ### Funcionou bem
 
-*A ser preenchido ao final da Sprint.*
+O objetivo da sprint foi atingido e todas as tasks foram concluídas. O login e o controle de acesso por nível funcionaram como esperado, e o gerenciamento de usuários ficou restrito ao administrador.
 
 ### Problemas
 
-*A ser preenchido ao final da Sprint.*
+Nenhum.
 
 ### Melhorias
 
-*A ser preenchido ao final da Sprint.*
+Como melhoria futura, permitir também alterar e excluir usuários e redefinir senhas, hoje feitos apenas pelo cadastro e pela consulta.
