@@ -10,7 +10,7 @@ Permitir o registro das fichas de serviço dos equipamentos.
 
 ## Product Backlog Items
 
-- HU05 – Registrar ficha de serviço (issue a criar) – RF04
+- HU04 – Consultar Serviços Finalizados (issue #12) – RF04
 
 ## Tasks
 
