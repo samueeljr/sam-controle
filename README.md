@@ -21,8 +21,8 @@ Sistema desktop de console em linguagem C para gestão de clientes, equipamentos
 
 | Documento | Conteúdo |
 |---|---|
-| [01-requisitos.md](./docs/scrum/01-requisitos.md) | Fonte oficial dos requisitos (RF, RNF, RN) |
-| [02-product-backlog.md](./docs/scrum/02-product-backlog.md) | Backlog do produto, ligado aos requisitos e às sprints |
+| [01-Requisitos.md](./docs/scrum/Requisitos.md) | Fonte oficial dos requisitos (RF, RNF, RN) |
+| [02-Backlog.md](.docs/Scrum/Backlog.md) | Backlog do produto, ligado aos requisitos e às sprints |
 | [03-user-stories.md](./docs/scrum/03-user-stories.md) | User stories detalhando cada item do backlog |
 | [04-definition-of-done.md](./docs/scrum/04-definition-of-done.md) | Definition of Done da equipe |
 | [sprints/](./docs/Scrum/Sprints) | Um documento por Sprint (objetivo, tarefas, review, retrospectiva) |
