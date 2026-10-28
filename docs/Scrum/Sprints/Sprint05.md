@@ -10,7 +10,7 @@ Garantir que cada equipamento fique vinculado a um cliente cadastrado.
 
 ## Product Backlog Items
 
-- HU03 – Gerenciar Equipamentos (issue #11) – RF03 e RNF04
+- PBI03 – Gerenciar Equipamentos (US03) – RF03 e RNF04
 
 ## Tasks
 
@@ -20,22 +20,24 @@ Garantir que cada equipamento fique vinculado a um cliente cadastrado.
 
 ## Definition of Done
 
-Todos os itens devem atender à [DoD](../04-definition-of-done.md).
+Todos os itens devem atender à [DoD](../Definition-of-Done.md).
 
 ## Sprint Review
 
-*A ser preenchido ao final da Sprint.*
+- **Incremento entregue:** Vínculo entre equipamentos e clientes, com listagem dos equipamentos de cada cliente.
+- **Demonstração:** Cadastro de um equipamento para um cliente existente e listagem dos equipamentos desse cliente.
+- **Resultado:** o objetivo da sprint foi atingido e os itens planejados foram concluídos.
 
 ## Retrospective
 
 ### Funcionou bem
 
-*A ser preenchido ao final da Sprint.*
+O objetivo da sprint foi atingido e todas as tasks foram concluídas. O vínculo entre equipamento e cliente funcionou, e as informações ficaram relacionadas entre si.
 
 ### Problemas
 
-*A ser preenchido ao final da Sprint.*
+Nenhum.
 
 ### Melhorias
 
-*A ser preenchido ao final da Sprint.*
+Nenhuma melhoria identificada nesta sprint.
