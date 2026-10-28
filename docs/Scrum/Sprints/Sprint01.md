@@ -10,7 +10,7 @@ Estruturar a base do programa em C e entregar o menu principal de navegação do
 
 ## Product Backlog Items
 
-- Estrutura base do sistema (sem história de usuário própria) – issue #13
+- Estrutura base do sistema (sem user story própria)
 
 ## Tasks
 
@@ -24,18 +24,20 @@ Todos os itens devem atender à [DoD](../04-definition-of-done.md).
 
 ## Sprint Review
 
-*A ser preenchido ao final da Sprint.*
+- **Incremento entregue:** Estrutura base do programa em C e menu principal de navegação.
+- **Demonstração:** Execução do programa no terminal, navegando pelas opções do menu.
+- **Resultado:** o objetivo da sprint foi atingido e os itens planejados foram concluídos.
 
 ## Retrospective
 
 ### Funcionou bem
 
-*A ser preenchido ao final da Sprint.*
+O objetivo da sprint foi atingido e todas as tasks foram concluídas. O menu principal ficou organizado e serviu de base para as funcionalidades das sprints seguintes.
 
 ### Problemas
 
-*A ser preenchido ao final da Sprint.*
+Nenhum.
 
 ### Melhorias
 
-*A ser preenchido ao final da Sprint.*
+Como melhoria futura, o grupo pretende migrar o armazenamento dos arquivos de texto (`.txt`) para um banco de dados, de preferência o SQL Server, o que traria mais segurança, integridade e desempenho para todos os dados do sistema.
