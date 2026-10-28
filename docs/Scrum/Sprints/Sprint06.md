@@ -10,7 +10,7 @@ Permitir o registro das fichas de serviço dos equipamentos.
 
 ## Product Backlog Items
 
-- HU04 – Consultar Serviços Finalizados (issue #12) – RF04
+- PBI04 – Consultar Serviços Finalizados (US04) – RF04
 
 ## Tasks
 
@@ -22,22 +22,24 @@ Permitir o registro das fichas de serviço dos equipamentos.
 
 ## Definition of Done
 
-Todos os itens devem atender à [DoD](../04-definition-of-done.md).
+Todos os itens devem atender à [DoD](../Definition-of-Done.md).
 
 ## Sprint Review
 
-*A ser preenchido ao final da Sprint.*
+- **Incremento entregue:** Registro de fichas de serviço, com validação, gravação e impressão.
+- **Demonstração:** Registro de uma ficha de serviço para um equipamento de um cliente, desde o CPF até a mensagem de sucesso e a impressão da ficha.
+- **Resultado:** o objetivo da sprint foi atingido e os itens planejados foram concluídos.
 
 ## Retrospective
 
 ### Funcionou bem
 
-*A ser preenchido ao final da Sprint.*
+O objetivo da sprint foi atingido e todas as tasks foram concluídas. O registro da ficha de serviço funcionou do início ao fim, incluindo a validação dos dados e a impressão da ficha.
 
 ### Problemas
 
-*A ser preenchido ao final da Sprint.*
+Nenhum.
 
 ### Melhorias
 
-*A ser preenchido ao final da Sprint.*
+Como melhoria futura, acompanhar o andamento do serviço por status (aberto, em andamento e finalizado) e gerar a ficha também em PDF, além da impressão.
