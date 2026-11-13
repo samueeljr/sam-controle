@@ -8,7 +8,7 @@ Bem-vindo à central de documentação oficial do **SAM Controle**. Este diretó
 
 | Secção / Pasta | Descrição | Conteúdo / Ficheiros |
 | :--- | :--- | :--- |
-| **[Documento PIM](#)** | Documento oficial do PIM  | Ficheiro PDF/Word (`#.pdf`) |
+| **[Documento PIM](./oficial-pim-II.pdf)** | Documento oficial do PIM  | Ficheiro PDF/Word (`#.pdf`) |
 | **[Manual PIM](./manual-pim-II.pdf)** | Relatório acadêmico oficial completo do projeto | Ficheiro PDF (`manual-pim-ii.pdf`) |
 | **[Scrum & Requisitos](./Scrum)** | Artefatos de gestão ágil, requisitos e histórias de utilizador | Backlog, User Stories e Registo de Sprints |
 | **[Diagramas](./Diagramas/)** | Modelagem visual do sistema (Casos de Uso, Classes, etc.) | Imagens exportadas (`.png` / `.jpg`) |
